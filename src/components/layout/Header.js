@@ -37,7 +37,7 @@ const Header = (props) => {
 }
 
 Header.defaultProps = {
-  branding: 'My App',
+  branding: 'Contact Manager',
 }
 
 Header.propTypes = {
